@@ -1,0 +1,2 @@
+# react-class
+class explanation
