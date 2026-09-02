@@ -1,5 +1,5 @@
 import Message from './Message'
-import { useApp } from './AppContext'
+import { useApp } from '../context/AppContext.jsx'
 
 const scientists = [
   {

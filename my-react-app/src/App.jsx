@@ -1,8 +1,8 @@
-import { AppProvider } from './components/AppContext'
-import ThemeChange from './components/ThemeChange'
-import LanguageToggle from './components/LanguageToggle'
-import AttendanceMarker from './components/AttendanceMarker'
-import Profile from './components/Profile'
+import { AppProvider } from './context/AppContext.jsx'
+import ThemeChange from './context/ThemeChange.jsx'
+import LanguageToggle from './context/LanguageToggle.jsx'
+import AttendanceMarker from './components/AttendanceMarker.jsx'
+import Profile from './components/Profile.jsx'
 import './App.css'
 
 function App() {

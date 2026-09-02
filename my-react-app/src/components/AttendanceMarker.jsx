@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useApp } from './AppContext'
+import { useApp } from '../context/AppContext.jsx'
 
 function AttendanceMarker() {
   const { t } = useApp()
